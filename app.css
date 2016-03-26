@@ -5,16 +5,11 @@
 }
 
 
-body {
-	background-color:#BADA55;
-	color:#333333;
-}
-
 .main-content {
-	display:block; 
-	width:1200px;
-	height:600px;
-	margin:0 auto;
 	background-color:#26abd2;
+	display:block;
+	padding:0 12px;
+	width:1200px;
+	margin:0 auto; 
 }
 
