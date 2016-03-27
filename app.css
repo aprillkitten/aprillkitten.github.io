@@ -1,63 +1,13 @@
-
 * {
   box-sizing: border-box;
 }
 
-.main-title {
-  text-align: center;
-  padding: 24px 0;
-  color: #ffed00;
+body {
+  background-image: url('fabric.png');
 }
 
-.main-content {
-  position: relative;
-  background-color: #26abd2;
-  width: 1200px;
-  margin: 0 auto;
-}
-
-.content {
-  margin-left: 200px;
-  max-width: 1000px;
-  background-color: #15b43c;
-  color: white;
-  display: inline-block;
-}
-
-.nav-container {
-  display: inline-block;
-  position: absolute;
-  top: 24px;
-  left: 24px;
-}
-
-.nav-container ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.nav-container ul li {
-  margin: 12px 0;
-  font-size: 32px;
-}
-
-.content-image {
-  float: right;
-  margin: 24px 0 0 24px;
-}
-
-.inner-content {
-  display: inline-block;
-  max-width: 500px;
-}
-
-.inner-content-left {
-  background-color: #1bd900;
-  float: left;
-}
-
-.inner-content-right {
-  background-color: #ed7f1a;
-  float: right;
+.footer {
+  background: #333;
+  color: #fff;
+  padding: 24px;
 }
